@@ -11,7 +11,8 @@ Flavio Carvalho, Rafael Guimarães Rodrigues, Lilian Ferrari, and Gustavo Paiva 
 ```
 @INPROCEEDINGS{
     AUTHOR="Flavio Carvalho and Rafael Guimarães Rodrigues and Lilian Ferrari and Gustavo Paiva Guedes",
-    TITLE="A dictionary of pronouns for Brazilian Portuguese", BOOKTITLE="Congresso Internacional de Informática Educativa (TISE 2018)",
+    TITLE="A dictionary of pronouns for Brazilian Portuguese",
+    BOOKTITLE="Congresso Internacional de Informática Educativa (TISE 2018)",
     ADDRESS="Brasília, Brazil",
     DAYS="27-29",
     MONTH="nov",
